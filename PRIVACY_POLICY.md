@@ -63,6 +63,6 @@ By using SaveBux, you agree to the following terms:
 
 ## 8. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
-* **Email:** support@savebux.app
+* **Email:** faithbros.dev@gmail.com
 * **Developer:** Faith-Bros / SaveBux Team  
 * **Public Repository:** [https://github.com/Faith-Bros/savebux-public](https://github.com/Faith-Bros/savebux-public)
